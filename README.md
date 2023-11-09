@@ -2,5 +2,9 @@
 Retro-style platform game with strategic challenges developed with Unity, C#
 
 
-https://github.com/melisaozdoyuran2001/Forest-Lore-Platform-Game/assets/123209674/511aeaa8-0132-4358-b288-047c84959e66
+
+
+
+
+https://github.com/melisaozdoyuran2001/Forest-Lore-Platform-Game/assets/123209674/f38f71ed-6716-4db9-a80f-1f28f6c1a51b
 
